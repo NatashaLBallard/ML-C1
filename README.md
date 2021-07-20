@@ -1,1 +1,1 @@
-# ML-C1W1
+# Machine Learning - Course 1
